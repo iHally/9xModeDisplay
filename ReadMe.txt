@@ -4,6 +4,17 @@ displays temperature and displays battery.
 Also included an excel sheet containing a breakdown for resistor
 selection and code adjustments.
 
+--Change log--
+v107 
+better graph management
+fully commented code
+slightly less crappy code
+
+v106 
+runs with bugs and crappy code
+
+--Links and Guides--
+
 6Position switch guide - http://www.rchacker.com/projects/turnigy-9x/six-position-switch-modification-for-use-with-ardupilot
 OLED guide - http://www.geekonfire.com/wiki/index.php?title=I2C_OLED_Panel%28128x64%29#Introduction
 
