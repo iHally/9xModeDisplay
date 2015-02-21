@@ -15,6 +15,8 @@ runs with bugs and crappy code
 
 --Links and Guides--
 
+My Complete Guide - http://forum.hsbne.org/t/turnigy-9x-modifications/689
+
 6Position switch guide - http://www.rchacker.com/projects/turnigy-9x/six-position-switch-modification-for-use-with-ardupilot
 OLED guide - http://www.geekonfire.com/wiki/index.php?title=I2C_OLED_Panel%28128x64%29#Introduction
 
