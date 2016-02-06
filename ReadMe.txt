@@ -1,10 +1,15 @@
 Arduino sketch and needed libraries for adding a display to 9x (or
-similar) radio. Displays selected mode (for ardupilot), displays and graphs altitude,
+similar) radio. 
+Displays selected mode (for ardupilot), displays and graphs altitude,
 displays temperature and displays battery.
 Also included an excel sheet containing a breakdown for resistor
 selection and code adjustments.
 
 --Change log--
+v108
+Bug Fixes
+Graphing now with adaptive scaling
+
 v107 
 better graph management
 fully commented code
